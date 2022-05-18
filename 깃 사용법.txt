@@ -1,0 +1,13 @@
+처음 레파지토리 불러오기:
+git clone (주소)
+ex) git clone https://github.com/Sootban/Python.git
+
+폴더를 수정 했을 때
+git status
+git add .
+git commit -m "하고 싶은 말"
+git push
+
+수정 된 것을 받을 때
+git fetch
+git pull
